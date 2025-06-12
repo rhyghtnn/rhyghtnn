@@ -76,8 +76,14 @@
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />
 
+
+# **PLAY GAME WITH ME**
+
+     
+
+
+ 
 # **MY GITHUB STATS<sup>I'm a beginner</sup>**
 
 ![Rhyghtnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhyghtnn&show_icons=true&theme=prussian)
