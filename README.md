@@ -1,7 +1,17 @@
-#**Hello World! Im Akira Seiso**     
+
+# **Hello World I'm Akira Seiso👋**
+
+
 ![rhyghtnnn](https://github.com/user-attachments/assets/60222b86-16fd-4605-ba47-e950efa0e69d)
 
-## skills
+- 😏 I'm come from Indonesia
+- 👪born in Bandung
+- 🖤 i'm single
+- 🔭 Currently I am working on: fixing my personal profile on github
+- 💬 Ask me about : anime
+- 🌱 I’m currently learning : making my github profile good
+
+## **SKILLS**
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /><img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
 <img src="https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white" />
@@ -38,7 +48,7 @@
 <img src="https://img.shields.io/badge/CC--BY--4.0-lightgrey?style=for-the-badge" />
 
 
-## connect with me
+## **CONNECT WITH ME**
 ![https://www.instagram.com/rhyghtnn/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -68,6 +78,21 @@
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />
 
+# **MY GITHUB STATS<sup>I'm a beginner</sup>**
+
+![Rhyghtnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhyghtnn&show_icons=true&theme=prussian)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=prussian)
+
+
+
+
+
+
+
+
+
+
  
 <!--
 **rhyghtnn/rhyghtnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -84,8 +109,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😏 I'm come from Indonesia
-- 👪born in Bandung
-- 🖤 i'm single
-  
--🔭 Currently I don't have a job
