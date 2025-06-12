@@ -1,4 +1,4 @@
---------------------------------  Hello World! Im Akira Seiso  -------------------------------------
+----------------------------------------------------  Hello World! Im Akira Seiso  ---------------------------------------------------------
 
 ![rhyghtnnn](https://github.com/user-attachments/assets/0e342c83-a980-456e-b0c5-9c2072afe7ad)
 
