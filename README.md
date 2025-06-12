@@ -1,5 +1,4 @@
-----------------------------------------------------       **Hello World! Im Akira Seiso**      ---------------------------------------------------------
-
+#**Hello World! Im Akira Seiso**     
 ![rhyghtnnn](https://github.com/user-attachments/assets/60222b86-16fd-4605-ba47-e950efa0e69d)
 
 ## skills
