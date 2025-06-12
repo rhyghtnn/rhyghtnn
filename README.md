@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there Im Akira Seiso👋
+
+![hatsune miku](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml4ZmZia2VzcWZpcnRpMGxqMmNycm9sYWZheDRteXB2MjJzY3gxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oqmwkTtUlCBQOdscu/giphy.gif)
 
 <!--
 **rhyghtnn/rhyghtnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😏 I'm come from Indonesia
+- 👪born in Bandung
+- 🖤 i'm single
+  
+-🔭 Currently I don't have a job
