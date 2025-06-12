@@ -1,6 +1,7 @@
 ----------------------------------------------------       **Hello World! Im Akira Seiso**      ---------------------------------------------------------
 
-![rhyghtnnn](https://github.com/user-attachments/assets/0e342c83-a980-456e-b0c5-9c2072afe7ad)
+![rhyghtnnn](https://github.com/user-attachments/assets/60222b86-16fd-4605-ba47-e950efa0e69d)
+
 
 
 
