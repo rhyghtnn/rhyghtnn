@@ -84,7 +84,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=prussian)
 
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315m4a6ri7zlve34lgpksp2qemuy&unique={true|1|on|yes})
 
 
 
