@@ -1,6 +1,11 @@
-## Hi there Im Akira Seiso👋
+--------------------------------  Hello World! Im Akira Seiso  -------------------------------------
 
-![hatsune miku](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml4ZmZia2VzcWZpcnRpMGxqMmNycm9sYWZheDRteXB2MjJzY3gxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oqmwkTtUlCBQOdscu/giphy.gif)
+![rhyghtnnn](https://github.com/user-attachments/assets/0e342c83-a980-456e-b0c5-9c2072afe7ad)
+
+
+
+
+  ![hatsune miku](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml4ZmZia2VzcWZpcnRpMGxqMmNycm9sYWZheDRteXB2MjJzY3gxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oqmwkTtUlCBQOdscu/giphy.gif)
 
 <!--
 **rhyghtnn/rhyghtnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
