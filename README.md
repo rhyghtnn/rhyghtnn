@@ -2,12 +2,21 @@
 
 ![rhyghtnnn](https://github.com/user-attachments/assets/60222b86-16fd-4605-ba47-e950efa0e69d)
 
+## skills
 
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 
+## connect with me
 
+![https://instagram.com/rhyghtnn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-  ![hatsune miku](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml4ZmZia2VzcWZpcnRpMGxqMmNycm9sYWZheDRteXB2MjJzY3gxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oqmwkTtUlCBQOdscu/giphy.gif)
+<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
 
+ 
 <!--
 **rhyghtnn/rhyghtnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
