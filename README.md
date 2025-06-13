@@ -88,7 +88,9 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/rhyghtnn/rhyghtnn/output/snake.svg" alt="Snake animation" />
 
+###
 
 
 
