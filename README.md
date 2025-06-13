@@ -1,6 +1,7 @@
 
 # **Hello World I'm Akira Seiso👋**
 
+![ME](https://github.com/user-attachments/assets/e0d9eff0-10ef-4256-870b-8f159d130732)
 
 ![rhyghtnnn](https://github.com/user-attachments/assets/60222b86-16fd-4605-ba47-e950efa0e69d)
 
