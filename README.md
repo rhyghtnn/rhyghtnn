@@ -93,9 +93,6 @@
 
 ###
 
-
-
-
 # **MY GITHUB STATS<sup>I'm a beginner</sup>**
 
 ![Rhyghtnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhyghtnn&show_icons=true&theme=prussian)
