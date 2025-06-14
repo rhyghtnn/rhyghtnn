@@ -30,10 +30,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rhyghtnn/rhyghtnn/output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="center">
-  <!-- KOREKSI INI: Pastikan URL mengarah ke username dan nama repositori Anda yang benar -->
-  <img src="https://github.com/rhyghtnn/rhyghtnn/raw/main/dist/github-snake.gif" alt="GitHub Snake Animation" />
-</p>
+<img src="https://raw.githubusercontent.com/rhyghtnn/rhyghtnn/output/snake.svg" alt="Snake animation" />
+
+###
 
 # 📊**MY GITHUB STATS<sup>I'm a beginner</sup>**
 ![](https://github-readme-stats.vercel.app/api?username=rhyghtnn&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
