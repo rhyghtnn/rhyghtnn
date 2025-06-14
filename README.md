@@ -30,7 +30,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rhyghtnn/rhyghtnn/output/pacman-contribution-graph.svg">
 </picture>
 
-![GitHub Snake Animation](https://github.com/rayhantuanto/rayhantuanto/raw/output/github-snake.gif)
+<p align="center">
+    <img src="https://github.com/rayhantuanto/rhyghtnn/raw/main/dist/github-snake.gif" alt="GitHub Snake Animation" />
+</p>
 
 # 📊**MY GITHUB STATS<sup>I'm a beginner</sup>**
 ![](https://github-readme-stats.vercel.app/api?username=rhyghtnn&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>

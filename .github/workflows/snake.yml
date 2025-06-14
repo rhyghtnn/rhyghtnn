@@ -1,25 +1,37 @@
-name: Generate Snake Animation
+nname: Generate Snake Animation
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Menjalankan setiap hari pada pukul 00:00 UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v2
+        with:
+          # Penting: Checkout dengan personal access token agar bisa push kembali
+          token: ${{ secrets.GITHUB_TOKEN }} # Ini adalah token bawaan GitHub Actions
 
       - name: Generate Snake Game
         uses: Platane/snk@v2
         with:
-          github_user_name: rayhantuanto  # Ganti dengan nama pengguna GitHub Anda
-          gif_out_path: dist/github-snake.gif
+          github_user_name: rayhantuanto # Pastikan ini username kamu
+          gif_out_path: dist/github-snake.gif # Lokasi GIF
 
-      - name: Upload Snake Animation
+      # --- Tambahkan langkah ini untuk meng-commit GIF ke repositori ---
+      - name: Commit and Push Snake GIF
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/github-snake.gif
+          git commit -m "Generate Snake GIF" || echo "No changes to commit"
+          git push
+      # -----------------------------------------------------------------
+
+      - name: Upload Snake Animation # Ini hanya opsional, kalau kamu mau tetap punya artefak
         uses: actions/upload-artifact@v2
         with:
           name: snake-animation
