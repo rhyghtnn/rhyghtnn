@@ -30,7 +30,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rhyghtnn/rhyghtnn/output/pacman-contribution-graph.svg">
 </picture>
 
-
+![GitHub Snake Animation](https://github.com/rayhantuanto/rayhantuanto/raw/output/github-snake.gif)
 
 # 📊**MY GITHUB STATS<sup>I'm a beginner</sup>**
 ![](https://github-readme-stats.vercel.app/api?username=rhyghtnn&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -77,3 +77,6 @@ Here are some ideas to get you started:
 
 
 
+
+
+[def]: https://github.com/rayhantuanto/rayhantuanto/raw/output/github-snake.gif
