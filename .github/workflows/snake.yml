@@ -1,37 +1,46 @@
-nname: Generate Snake Animation
+# Nama workflow ini akan muncul di tab "Actions" GitHub Anda
+name: Generate Snake Animation
 
+# Tentukan kapan workflow ini akan berjalan
 on:
+  # Jalankan setiap hari pada pukul 00:00 UTC (Anda bisa sesuaikan jadwalnya)
   schedule:
     - cron: "0 0 * * *"
+  # Izinkan pemicuan manual dari tab "Actions"
   workflow_dispatch:
 
 jobs:
   build:
+    # Jalankan di runner Ubuntu terbaru
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout the repository
+      # Langkah 1: Checkout repositori Anda
+      - name: Checkout Repositori
         uses: actions/checkout@v2
         with:
-          # Penting: Checkout dengan personal access token agar bisa push kembali
-          token: ${{ secrets.GITHUB_TOKEN }} # Ini adalah token bawaan GitHub Actions
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Snake Game
+      # Langkah 2: Buat Animasi Ular
+      - name: Buat Animasi Ular GitHub
         uses: Platane/snk@v2
         with:
-          github_user_name: rayhantuanto # Pastikan ini username kamu
-          gif_out_path: dist/github-snake.gif # Lokasi GIF
+          # --- KOREKSI INI: Ganti ke username GitHub Anda yang sebenarnya ---
+          github_user_name: rhyghtnn # <--- HARUSNYA 'rhyghtnn'
+          # Lokasi output file GIF di dalam runner
+          gif_out_path: dist/github-snake.gif
 
-      # --- Tambahkan langkah ini untuk meng-commit GIF ke repositori ---
-      - name: Commit and Push Snake GIF
+      # Langkah 3: Commit dan Push GIF yang Dihasilkan ke Repositori
+      - name: Commit dan Push GIF Ular
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add dist/github-snake.gif
-          git commit -m "Generate Snake GIF" || echo "No changes to commit"
+          git commit -m "feat: perbarui animasi ular github" || echo "Tidak ada perubahan untuk di-commit"
           git push
-      # -----------------------------------------------------------------
 
-      - name: Upload Snake Animation # Ini hanya opsional, kalau kamu mau tetap punya artefak
+      # Langkah 4: (Opsional) Unggah GIF sebagai Artefak
+      - name: Unggah Animasi Ular sebagai Artefak
         uses: actions/upload-artifact@v2
         with:
           name: snake-animation

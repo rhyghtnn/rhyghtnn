@@ -31,7 +31,8 @@
 </picture>
 
 <p align="center">
-    <img src="https://github.com/rayhantuanto/rhyghtnn/raw/main/dist/github-snake.gif" alt="GitHub Snake Animation" />
+  <!-- KOREKSI INI: Pastikan URL mengarah ke username dan nama repositori Anda yang benar -->
+  <img src="https://github.com/rhyghtnn/rhyghtnn/raw/main/dist/github-snake.gif" alt="GitHub Snake Animation" />
 </p>
 
 # 📊**MY GITHUB STATS<sup>I'm a beginner</sup>**
