@@ -16,12 +16,29 @@ jobs:
     timeout-minutes: 5
 
     steps:
+<<<<<<< Updated upstream
       - name: generate pacman-contribution-graph.svg
+=======
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate pacman-contribution-graph.svg
+>>>>>>> Stashed changes
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
+<<<<<<< Updated upstream
       - name: push pacman-contribution-graph.svg to the output branch
+=======
+      - name: Move SVG to dist folder
+        run: |
+          mkdir -p dist
+          mv pacman-contribution-graph.svg dist/
+          mv pacman-contribution-graph-dark.svg dist/ || true
+
+      - name: Push to output branch
+>>>>>>> Stashed changes
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
